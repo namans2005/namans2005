@@ -62,9 +62,9 @@ Secure voting platform with student/admin roles, live result tallying, and elect
 
 ## 🤝 Let’s Connect
 
-📫 Email: [your-email@example.com]  
+📫 Email: [namans2005@gmail.com]  
 🌐 Portfolio (Coming Soon)  
-🔗 LinkedIn: [linkedin.com/in/yourusername](#)
+🔗 LinkedIn: [https://www.linkedin.com/in/namans31/](#)
 
 ---
 
