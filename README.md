@@ -64,7 +64,6 @@ Secure voting platform with student/admin roles, live result tallying, and elect
 
 📫 Email: [namans2005@gmail.com]  
 🌐 Portfolio: [https://naman-sharma-dev.vercel.app/] 
-
 🔗 LinkedIn: [https://www.linkedin.com/in/namans31/]
 
 ---
